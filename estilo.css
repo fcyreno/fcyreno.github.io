@@ -1,0 +1,158 @@
+.cabecalho{
+    background-color: #1B1D2C;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+#imagem_fernando{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+}
+
+.nome_titulo{
+    margin-left: 30px;
+}
+
+.contato{
+    margin-top: 30px;
+}
+
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#conteudo_1{
+    display: inline-block;
+    background-color: #939193;
+}
+
+#conteudo_2{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold
+}
+
+#conteudo_3{
+    margin-top: 5px;
+}
+
+#conteudo_4{
+    display: inline-block;
+    background-color: #939193;
+}
+
+#conteudo_5{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold
+}
+
+#conteudo_6{
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_7{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_8{
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_9{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_10{
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_11{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_12{
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_13{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_14{
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_15{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_16{
+    margin-top: 25px;
+    margin-bottom: 2px;
+    font-weight: bold;
+}
+
+#conteudo_17{
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#conteudo_18{
+    display: inline-block;
+    background-color: #939193;
+}
+
+#conteudo_19{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold
+}
+
+#conteudo_20{
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+
+#conteudo_21{
+    margin-top: 2px;
+}
+
+#conteudo_22{
+    display: inline-block;
+    background-color: #939193;
+}
+
+#conteudo_23{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold
+}
